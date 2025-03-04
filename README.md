@@ -7,18 +7,18 @@ It is designed to  follow muscle landmarks through its topology, and thus requir
 
 ## Usage
 
- Add a Subdivision Surface Modifier
+ Requires a Subdivision Surface Modifier to good presentable results
 
 ## Features
 
-	Physically Based Topology
-	4k & 8K Textures
+* Physically Based Topology
+* 4k & 8K Textures
 
 ## Downsides
 
-	Last Updated in 2022
-	Textures have visible seams.
-	No FACS rigging.
+* Last Updated in 2022
+* Textures have visible seams.
+* No FACS rigging.
 
 ## Installation manual
 
